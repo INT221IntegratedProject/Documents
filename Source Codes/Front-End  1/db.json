@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "caseId": 2,
+      "caseName": "Estoy Hecha",
+      "caseDescription": "Grip Case",
+      "casePrice": 1300.0,
+      "caseImage": "case2.jpg",
+      "brand": {
+        "codeBrand": 1,
+        "caseBrand": "Apple"
+      },
+      "color": [
+        {
+          "codeColor": 7,
+          "caseColor": "Coral"
+        }
+      ],
+      "caseDate": "2021-02-16"
+    },
+    {
+      "id": 2,
+      "CaseName": "Butterfly",
+      "CasePrice": 1562.63,
+      "CaseDescription": "For Iphone 12",
+      "CaseDate": "2021-01-18",
+      "CaseImage": "2"
+    }
+  ],
+  "brands": [
+    {
+      "CodeBrand": 1,
+      "caseBrand": "Apple"
+    },
+    {
+      "CodeBrand": 2,
+      "caseBrand": "Huawei"
+    },
+    {
+      "CodeBrand": 3,
+      "caseBrand": "Oneplus"
+    },
+    {
+      "CodeBrand": 4,
+      "caseBrand": "Oppo"
+    },
+    {
+      "CodeBrand": 5,
+      "caseBrand": "Vivo"
+    },
+    {
+      "CodeBrand": 6,
+      "caseBrand": "Samsung"
+    },
+    {
+      "CodeBrand": 7,
+      "caseBrand": "Xiaomi"
+    }
+  ],
+  "colors": [
+    {
+      "CodeColor": 1,
+      "CaseColor": "Blue"
+    },
+    {
+      "CodeColor": 2,
+      "CaseColor": "Green"
+    },
+    {
+      "CodeColor": 3,
+      "CaseColor": "Pink"
+    },
+    {
+      "CodeColor": 4,
+      "CaseColor": "Purple"
+    },
+    {
+      "CodeColor": 5,
+      "CaseColor": "Red"
+    },
+    {
+      "CodeColor": 6,
+      "CaseColor": "Yellow"
+    }
+  ]
+}

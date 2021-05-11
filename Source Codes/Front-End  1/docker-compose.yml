@@ -1,0 +1,12 @@
+version: "3"
+services:
+  frontend:
+    build: .
+    image: frontend
+    ports: 
+      - "8080:80"
+    container_name: frontend
+networks:
+  default:
+    external:
+      name: int221_network

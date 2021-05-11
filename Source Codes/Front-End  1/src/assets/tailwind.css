@@ -1,0 +1,39 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.bg-caseCol-black{
+    background-color: #000000
+}
+.bg-caseCol-blue{
+    background-color: #3d84b8
+}
+.bg-caseCol-coral{
+    background-color: #ff6666
+}
+.bg-caseCol-green{  
+    background-color: #5aa897
+}
+.bg-caseCol-pink{
+    background-color: #ff9292
+}
+.bg-caseCol-purple{
+    background-color: #c67ace
+}
+.bg-caseCol-red{
+    background-color: #91091e
+}
+.input-text-holder{
+    @apply p-2;
+}
+.input-checkbox-checked{
+    @apply border-black text-black;
+}
+.input-image-get{
+    @apply object-cover w-48 h-48 shadow-lg border-black border-2;
+}
+
+
+

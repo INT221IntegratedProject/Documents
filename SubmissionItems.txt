@@ -1,0 +1,29 @@
+รายละเอียดงานที่ต้องส่ง
+ให้ตัวแทนส่งโครงงานและเอกสารอธิบายที่ LEB2:INT221 - Integrated Project 
+จะเป็นการส่งแบบกลุ่มโดยตั้งชื่อกลุ่มว่า INT221_รหัสนักศึกษา1_รหัสนักศึกษา2_รหัสนักศึกษา3
+และให้ส่งเป็น zip ไฟล์ มีชื่อว่า
+INT221_รหัสนักศึกษา1_รหัสนักศึกษา2_รหัสนักศึกษา3.zip
+*โดยรหัสนักศึกษาต้องเป็นแบบเต็มและเรียงจากน้อยไปมากเช่น
+INT221_60130521101_60130521105_60130521109.zip
+โดยใน zip จะมีรายละเอียดดังต่อไปนี้
+1. Folder ที่เก็บ Source Codes ทั้งหมด :: [Source Codes]
+   ใน folder Source Codes ประกอบไปด้วย folderยกหมวดในแต่ละด้าน
+1.1 [Source Codes/Front-End/...]
+1.2 [Source Codes/Back-End/...]
+1.3 [Source Codes/DevOps/...]
+1.4 [Source Codes/Database/...]
+
+2. Folder ที่เก็บ ไฟล์เอกสาร ทั้งหมด :: [Document]
+   ใน folder เอกสารประกอบไปด้วยไฟล์แยกหมวดในแต่ละด้าน
+2.1 [Document/Front-End.pdf] *ขอเพิ่มเติมแผนภาพโครงสร้าง json structure รวมในไฟล์ pdf ด้วยค่ะ
+2.2 [Document/Back-End.pdf]
+2.3 [Document/DevOps.pdf]
+2.4 [Document/Database.pdf]
+
+3. list ของลิงก์ที่เกี่ยวข้องทั้งหมด เช่น ลิงก์เว็บแอปพลิเคชันของโครงงาน ลิงก์ GIT-HuB ลิงก์ trello เพื่อให้สะดวกในการตรวจสอบและประเมินผลภายหลัง[links.txt]
+*ให้ส่งภายในวันที่ 11/05/2564 ก่อนเที่ยงวัน 12:00
+*ให้เพิ่มอาจารย์ปี 2 ทุกท่านใน git repo สามารถดู GIT USER ได้ที่ https://docs.google.com/spreadsheets/d/1TTp7IFBBO9eHr4rhk4gUn3GrWYCGZzgXgoXiE3_g8jg/edit?usp=sharing
+
+------------------------ Link ที่เกี่ยวข้อง ------------------------
+GIT REPO : https://github.com/INT221IntegratedProject
+FONT WEB : http://52.139.201.170:8080/
